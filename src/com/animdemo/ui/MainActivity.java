@@ -12,7 +12,7 @@ import android.widget.ImageView;
 public class MainActivity extends Activity {
 	private Button Btn;
 	private ImageView img;
-	private ViewGroup vg;
+	private ViewGroup vg;    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
